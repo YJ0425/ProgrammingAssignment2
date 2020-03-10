@@ -1,5 +1,5 @@
 ##This function is used to cache the inverse of matrix so that 
-##you don't have to calculate again next time.
+##you don't have to calculate again next time
 
 ##This first function creates a list containing a function to set & get the value of the matrix
 ##and set & get the value of the matrix inverse
